@@ -8,3 +8,5 @@ Laws drafted to enable better organization on the internet should be technologic
 ## Definitions
 
 "DAO" means an association identified through public keys on a cryptographic database that can record and execute the association's governance.
+
+"Member" means an individual or entity that associates with a DAO through a public key.
